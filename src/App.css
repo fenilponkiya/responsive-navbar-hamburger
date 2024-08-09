@@ -1,0 +1,10 @@
+.grid-item {
+  padding-left: 40px;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .grid-container {
+    display: none;
+  }
+}
